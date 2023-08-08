@@ -1,6 +1,5 @@
 # Oi! Eu sou a Mari! 
 ## Estou iniciando meus passinhos aqui no GitHub com ajuda da Profª Bea Ramerindo no Curso de Python da {Reprograma} ♥
-### Aqui estou registrando meus aprendizados até agora...
 
 Pretendo alcançar minha primeira oportunidade como dev back-end até o começo de 2024. 🤞🏾 
 
@@ -11,4 +10,4 @@ Pretendo alcançar minha primeira oportunidade como dev back-end até o começo 
 
 ### Outras competências:
 
-Falo inglês fluentemente e tenho experiência de 15 anos no mercado de trabalho corporativo, majoritariamente na área do Direito de Patentes e propriedade intelectual. 
+Falo inglês fluentemente e tenho experiência de 15 anos no mercado de trabalho corporativo (majoritariamente na área do Direito de Patentes e propriedade intelectual). 
